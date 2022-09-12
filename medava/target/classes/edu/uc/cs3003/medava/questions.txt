@@ -1,0 +1,3 @@
+1. How come you don't have to explicitly include for example, Hospital.java in the SupplyChain.java? Does Java just read from all files within a folder?  
+2. This is my first exposure to using java, so in your opinion what are some good resources for further learning to write Java?
+3. Can you only have one class per file? Or is using a ton of files purely organizational and for readability?
